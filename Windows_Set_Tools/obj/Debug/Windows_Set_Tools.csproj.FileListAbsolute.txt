@@ -1,0 +1,10 @@
+E:\nx2022\NX\Windows_Set_Tools\bin\Debug\Windows_Set_Tools.exe.config
+E:\nx2022\NX\Windows_Set_Tools\bin\Debug\Windows_Set_Tools.exe
+E:\nx2022\NX\Windows_Set_Tools\bin\Debug\Windows_Set_Tools.pdb
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.csproj.AssemblyReference.cache
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Attr_Tools.info.resources
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.Properties.Resources.resources
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.csproj.GenerateResource.cache
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.csproj.CoreCompileInputs.cache
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.exe
+E:\nx2022\NX\Windows_Set_Tools\obj\Debug\Windows_Set_Tools.pdb
